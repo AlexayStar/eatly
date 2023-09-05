@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'source-sans3';
+    src: url('../fonts/SourceSans3-Regular.woff2') format('woff2'),
+         url('../fonts/SourceSans3-Regular.woff') format('woff');
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
